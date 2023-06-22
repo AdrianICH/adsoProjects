@@ -1,6 +1,6 @@
 # reto2_carrito
 
-A new Flutter project.
+Carrito de compras basico construido en Flutter
 
 ## Getting Started
 
