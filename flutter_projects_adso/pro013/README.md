@@ -1,6 +1,6 @@
 # pro013
 
-A new Flutter project.
+Conexion a una base de datos por medio de APIs php y Flutter
 
 ## Getting Started
 
